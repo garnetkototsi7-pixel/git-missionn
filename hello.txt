@@ -1,2 +1,4 @@
 Hello Git
 "This is a new update"
+I Love Git
+I start to hate it
