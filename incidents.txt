@@ -1,0 +1,6 @@
+Bailey,BAYBAY123~analyst
+vance,chance12~data_scientist
+Bailey,BAYBAY123~data_scientist
+GRACE,BAYBAY123~data_scientist
+Sean,BAYBAY122~analyst
+WILLIS,FAN1233~data_scientist
